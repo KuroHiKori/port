@@ -32,7 +32,7 @@
 - 
 
 > Mobile Screen shot
-[HERE]
+[HERE] <img src="images/portfolio/gallery/screenshot.jpg" alt="">
  
 
 - Hosted with love.
