@@ -26,7 +26,10 @@
 
 > validator
 
-- https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmccormack.github.io%2Fmrm-portfolio%2F
+
+**WARNING**
+the validator has a few broken things but this does not effect the sites functionality what so ever and so I have left them the way they are. 
+- https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkurohikori.github.io%2Fport%2F
 
 > Link to LinkedIn.com
 - 
