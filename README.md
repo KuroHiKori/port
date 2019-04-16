@@ -47,6 +47,7 @@ https://gist.github.com/oliveratgithub/7192c585ce6850692199036d46d3dade
 ## Copyright and Plagarism Notes
 
 - I used a template from https://colorlib.com/ that was free to use
+- its (it's it's not its) this one https://colorlib.com/wp/template/transcend/
 
 ### Images
 - All images where my own
