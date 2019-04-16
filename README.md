@@ -10,7 +10,7 @@
 - Mobile screen shot
 - must have Google Analytics
 - Favicons for **SURE**
-- must have embedded 3D mode (you own) https://sketchfab.com
+- must have embedded 3D mode (you own) https://sketchfab.com (the sketch fab is linked in a few places but i did not embed it into the site it's self because it did not fit the stile.)
 
 
 ----
@@ -29,6 +29,7 @@
 
 **WARNING**
 the validator has a few broken things but this does not effect the sites functionality what so ever and so I have left them the way they are. 
+
 - https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkurohikori.github.io%2Fport%2F
 
 > Link to LinkedIn.com
@@ -45,20 +46,14 @@ https://gist.github.com/oliveratgithub/7192c585ce6850692199036d46d3dade
 
 ## Copyright and Plagarism Notes
 
-- My Bootstrap 4 template is licenced under MIT License
-- https://opensource.org/licenses/MIT
-- https://bootsnipp.com/snippets/aMVZE  Information Cards 
+- I used a template from https://colorlib.com/ that was free to use
 
 ### Images
-- any images you've used...
-- https://pixabay.com/en/sheep-curious-look-farm-animal-1822137/
-License: Free for commercial use
-No attribution required Ref: https://pixabay.com/en/service/license/
+- All images where my own
 
 
 ### Tutorials
-- any tutorials you used for things like 3D, or AfterEffects etc.
-- AE smoke tutorial https://youtu.be/2qlJmOEo7fA
+- I didn't use any for this
 
 ### Other
 
