@@ -2510,8 +2510,8 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+   
+ 
     left: 20px;
     top: 0;
 }
@@ -2528,8 +2528,8 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+   
+    
     left: 20px;
     top: 0;
 
@@ -2547,8 +2547,7 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+   
     left: 20px;
     top: 0;
 
@@ -2566,8 +2565,8 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+   
+
     left: 20px;
     top: 0;
     
@@ -2585,8 +2584,7 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+   
     left: 20px;
     top: 0;
 }
@@ -2603,15 +2601,35 @@ html.no-csstransitions .home-content__main {
     width: 48px;
     line-height: 48px;
     border-radius: 50%;
-    box-shadow: 0 0 0 18px #ffffff;
-    position: absolute;
+    
+    
     left: 20px;
     top: 0;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-.process__text {
+.process__text1 {
+    margin-left: 7.5rem;
+    padding-right: 30px;
+}
+.process__text2 {
+    margin-left: 7.5rem;
+    padding-right: 30px;
+}
+.process__text3 {
+    margin-left: 7.5rem;
+    padding-right: 30px;
+}
+.process__text4 {
+    margin-left: 7.5rem;
+    padding-right: 30px;
+}
+.process__text5 {
+    margin-left: 7.5rem;
+    padding-right: 30px;
+}
+.process__text6 {
     margin-left: 7.5rem;
     padding-right: 30px;
 }
